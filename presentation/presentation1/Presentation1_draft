@@ -1,0 +1,42 @@
+                    Topic Name: Mission AI-Possible: Discreet Talent Hunt
+
+
+
+User Story: 
+
+Mr. Liam Hunt, the CEO of Doodle, was dissatisfied with the quality of candidates provided by external hiring companies, as they lacked the essential skills he expected. After careful deliberation, Mr. Hunt decided to take over the recruitment process himself. Inspired by his love for the Mission Impossible movie series, he conceived the idea of developing a sophisticated AI recruitment tool. This tool would thoroughly analyze the public digital profiles of top IT professionals, allowing the team to efficiently identify and hire the best talent while maintaining the highest standards of data privacy.
+
+To initiate the selection process, Mr. Hunt plans to send interview invitations as pop-up messages to potential candidates. These messages will state, "You have been selected by us for the [specific role]. After careful consideration, we invite you to take a comprehensive test (interview). Should you choose to accept this test?" The candidate will then need to click 'yes' or 'no' to proceed.
+
+Data Sources and Data Points used for the project: 
+
+Kaggle:
+1.	Reputation Score: See how respected they are in the data science community.
+2.	Competition Participation: Get a sense of their experience and determination.
+3.	Rankings/Medals: Look for consistent high performance.
+4.	Engagement Metrics: Check if their contributions are valued by others.
+5.	Documentation & Dataset Analysis: Understand how well they explain their work and what areas they specialize in.
+LinkedIn:
+1.	Role & Expertise Statements: Quickly understand what they do and what they're good at.
+2.	Detailed Role Descriptions: See what they've achieved in their past roles.
+3.	Skills Alignment: Make sure they have the skills needed for the job.
+4.	Prioritized Skills: Identify their strongest skills at a glance.
+5.	Project Engagement & Professional Groups: Know if they're actively involved in their field and learning new things.
+GitHub:
+1.	Pinned Repositories: See what they're proudest of.
+2.	Regular Commits: Know if they're consistently working on projects.
+3.	Involvement in Open Source: Understand how well they collaborate and their coding skills.
+4.	Pull Requests Merged: Gauge their impact on larger projects.
+5.	Consistency with LinkedIn: Make sure their online presence matches what they say on their resume.
+Jenkins:
+1.	Pipeline Contributions: Look at their involvement in automating build, test, and deployment processes.
+2.	Script Contributions: Assess their scripting skills, especially in Groovy for Jenkins file or shell scripts for pipeline steps.
+3.	Quality and Efficiency: Seek contributions that enhance pipeline efficiency, reliability, and maintainability.
+4.	Automation Expertise: Evaluate their proficiency in setting up and maintaining automated CI/CD pipelines.
+5.	Collaboration Skills: Consider their teamwork and collaboration within the Jenkins ecosystem.
+Docker Hub:
+1.	Docker file Quality: Evaluate the effectiveness and clarity of their Dockerfile configurations.
+2.	Image Popularity: Consider the usage and popularity of their Docker images, indicating their impact and relevance.
+3.	Security Considerations: Assess adherence to security best practices and vulnerability management in their Docker images.
+4.	Containerization Skills: Gauge their proficiency in containerization concepts and practices.
+5.	Contribution Impact: Understand the significance of their contributions to the Docker Hub community and ecosystem.

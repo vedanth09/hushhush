@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HushHush Recruiters</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap/dist/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+        .container {
+            margin-top: 50px;
+        }
+        .card {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+ 
+    <div class="container">
+        <h1 class="text-center">Selected Candidates</h1>
+ 
+        <div id="candidates" class="row">
+          
+        </div>
+    </div>
+ 
+    <script>
+        function sendEmail(email) {
+            // This function will call your Python backend to send the email.
+            fetch('/send_email', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ email: email }),
+            })
+            .then(response => {
+                if (response.ok) {
+                    alert('Email sent successfully to ' + email);
+                } else {
+                    alert('Failed to send email.');
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                alert('Error sending email.');
+            });
+        }
+ 
+        // Example to load candidates from the backend (you would replace this with your actual data fetching logic)
+        document.addEventListener('DOMContentLoaded', () => {
+            fetch('/get_selected_candidates')
+                .then(response => response.json())
+                .then(data => {
+                    const candidatesDiv = document.getElementById('candidates');
+                    candidatesDiv.innerHTML = ''; // Clear existing content
+                    data.forEach(candidate => {
+                        candidatesDiv.innerHTML += `
+                            <div class="col-md-4">
+                                <div class="card">
+                                    <div class="card-body">
+                                        <h5 class="card-title">${candidate.name}</h5>
+                                        <p class="card-text">Email: ${candidate.email}</p>
+                                        <button class="btn btn-primary" onclick="sendEmail('${candidate.email}')">Send Email</button>
+                                    </div>
+                                </div>
+                            </div>`;
+                    });
+                })
+                .catch(error => console.error('Error fetching candidates:', error));
+        });
+    </script>
+ 
+</body>
+</html>

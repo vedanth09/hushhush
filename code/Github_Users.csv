@@ -1,0 +1,786 @@
+user_id,Email,Name,Followers Count,Following Count,Public Reposcount,Public Gistscount
+1,tom@mojombo.com,Tom Preston-Werner,24020,11,66,62
+2,chriswanstrath@gmail.com,Chris Wanstrath,22384,215,107,274
+3,pj@hyett.com,PJ Hyett,8304,30,8,21
+4,wycats@gmail.com,Yehuda Katz,10217,13,296,763
+5,ezrazygmuntowicz@gmail.com,Ezra Zygmuntowicz,559,13,22,106
+6,ivey@gweezlebur.com,Michael D. Ivey,155,3,37,80
+7,evan@phx.io,Evan Phoenix,1660,9,182,445
+17,vanpelt@wandb.com,Chris Van Pelt,400,20,59,50
+18,wayneeseguin@gmail.com,Wayne E Seguin,745,19,107,95
+19,bryanhelmkamp@gmail.com,Bryan Helmkamp,694,30,181,69
+20,kevin.clark@gmail.com,Kevin Clark,116,6,45,30
+22,macournoyer@gmail.com,Marc-André Cournoyer,1239,56,67,55
+23,toby@takeo.email,Toby Sterrett,98,11,22,11
+25,encytemedia@gmail.com,Justin Palmer,2379,44,166,99
+26,geoffreygrosenbach@gmail.com,Geoffrey Grosenbach,1365,250,84,46
+27,anotherjesse@gmail.com,Jesse Andrews,265,39,207,75
+28,roland@gmail.com,Roland,27,1,2,0
+29,lukas@wandb.com,Lukas Biewald,649,19,36,12
+31,tomtenthij@gmail.com,Tom ten Thij,60,12,88,240
+34,nitayjoffe@gmail.com,Nitay Joffe,51,0,7,2
+35,kevinwilliams@gmail.com,Kevin Williams,58,23,47,15
+36,davefayram@gmail.com,Dave Fayram,416,10,83,97
+37,jamesgolick@gmail.com,James Golick,644,30,110,114
+38,atmos@atmos.org,Corey Donohoe,1334,167,170,178
+45,sethfitzsimmons@gmail.com,Seth Fitzsimmons,602,114,321,80
+46,blake.mizerany@gmail.com,Blake Mizerany,1447,45,169,170
+47,jesse@jnewland.com,Jesse Newland,747,102,128,43
+48,joshknowles@gmail.com,Josh Knowles,120,43,14,3
+49,hornbeck@gmail.com,John Hornbeck,79,35,8,35
+50,jeff@jwhitmire.com,Jeff Whitmire,48,55,33,18
+51,michaelbuffington@gmail.com,Michael Buffington,34,10,50,4
+52,reinhenrichs@gmail.com,Rein Henrichs,203,1,208,183
+53,git@knz.ai,Kenzi Connor,61,10,40,60
+68,yap@bri.tt,Britt Selvitelle,142,53,34,17
+69,robsanheim@gmail.com,Rob Sanheim,216,32,43,44
+70,schacon@gmail.com,Scott Chacon,13730,26,214,93
+71,eivinduggedal@gmail.com,Eivind Uggedal,186,0,48,43
+72,brwcodes@gmail.com,Bruce Williams,360,41,119,87
+73,ssmoot@gmail.com,Sam Smoot,182,5,41,109
+74,self@mattmower.com,Matt Mower,65,1,81,126
+75,abhaykumar@gmail.com,Abhay Kumar,173,1,42,2
+76,evan@protest.net,rabble,253,94,44,2
+77,ben@benburkert.com,Ben Burkert,214,7,140,37
+78,andre@arko.net,André Arko,1019,0,247,121
+79,me@fearof.fish,Jamie van Dyke,50,4,62,50
+80,ry@tinyclouds.org,Ryan Dahl,31505,39,57,301
+81,engineyardinc@gmail.com,"Engine Yard, Inc.",17,0,335,25
+82,joshuasierles@gmail.com,Joshua Sierles,269,0,180,320
+83,taylorweibley@gmail.com,Taylor Weibley,47,2,12,10
+84,james@railsjitsu.com,E. James O'Kelly,12,0,5,0
+85,brixen@gmail.com,Brian Shirai,350,4,128,1115
+87,tommornini@gmail.com,Tom Mornini,52,4,14,21
+88,lee@outerim.com,Lee Jensen,27,1,27,10
+89,r@gmail.com,R,70,53,6,8
+90,me@simonrozet.com,Simon Rozet,588,200,134,56
+91,lifo@gmail.com,lifo,611,54,13,86
+92,sconds@gmail.com,Russell Norris,66,9,35,117
+93,ianownbey@gmail.com,Ian Ownbey,85,66,68,44
+94,dylanegan@gmail.com,Dylan Egan,125,0,55,32
+95,jeremymcanally@gmail.com,Jeremy McAnally,527,31,134,62
+100,kevin.marsh@gmail.com,Kevin Marsh,65,23,61,31
+101,jayson@aggressive.ly,Jayson Vantuyl,59,15,78,16
+102,wbsmith83@gmail.com,Brian Smith,94,32,109,184
+103,freeformz@gmail.com,Edward Muller,225,39,195,73
+104,dneighman@gmail.com,Daniel Neighman,353,77,156,113
+105,automatthew@gmail.com,automatthew,74,16,21,13
+106,Joshua.owens@gmail.com,Josh Owens,345,23,83,106
+107,lancecarlson@gmail.com,Lance Carlson,131,103,138,34
+108,drnicwilliams@gmail.com,Dr Nic Williams,1782,11,675,267
+109,lukematthewsutton@gmail.com,Luke Matthew Sutton,53,4,18,59
+110,danwebb@gmail.com,Dan Webb,354,31,32,37
+111,hampton@hamptoncatlin.com,Hampton Lintorn-Catlin,670,6,72,38
+112,jefffrost@gmail.com,Jeff Frost,21,1,12,63
+113,mattaimonetti@gmail.com,Matt Aimonetti,1074,10,301,354
+114,c@leb.tennis,Caleb Tennis,27,0,10,8
+115,lawrence.pit@gmail.com,L Pit,34,6,27,30
+116,github@marcjeanson.com,Marc Jeanson,44,22,33,7
+117,glennrempe@gmail.com,Glenn Rempe,129,27,42,10
+118,git@peterc.org,Peter Cooper,679,62,44,204
+119,ministrycenteredtechnologies@gmail.com,Ministry Centered Technologies,12,0,72,2
+120,aaronfarnham@gmail.com,Aaron Farnham,36,20,45,13
+121,garrydolley@gmail.com,Garry Dolley,41,7,47,4
+122,cristibalan@gmail.com,Cristi Balan,94,33,24,18
+123,markdaggett@gmail.com,Mark Daggett,105,39,41,28
+124,brosner@gmail.com,Brian Rosner,971,111,115,22
+125,daniel@collectiveidea.com,Daniel Morrison,121,19,35,23
+126,chebuctonian@gmail.com,Daniel Haran,93,35,33,32
+127,kls@gmail.com,KLS,118,0,32,15
+128,info@collectiveidea.com,Collective Idea,48,0,179,7
+129,duane.johnson@gmail.com,Duane Johnson,180,22,239,57
+130,cora@sutton.me,Cora Sutton,108,3,42,1
+131,deanstrelau@gmail.com,Dean Strelau,76,43,48,72
+132,sunny@sunfox.org,Sunny Ripert,338,138,240,146
+133,github@dan.kubb.ca,Dan Kubb,548,12,45,102
+134,jonas@jnicklas.com,Jonas Nicklas,849,8,147,95
+135,richcollins@gmail.com,Rich Collins,58,4,28,56
+136,simonjefford@gmail.com,Simon Jefford,37,3,87,48
+137,joshuapeek@gmail.com,Joshua Peek,2450,248,44,0
+138,steve@dekorte.com,Steve Dekorte,670,17,22,1
+139,leah@vuxu.org,Leah Neukirchen,1271,9,196,8
+140,jr@gmail.com,J R,52,8,69,163
+141,phil@hagelb.org,Phil Hagelberg,2110,0,89,57
+142,kennordquist@gmail.com,Ken Nordquist,11,0,1,1
+143,scottbarron@gmail.com,Scott Barron,393,0,77,36
+144,ogc@gmail.com,OGC,6,0,2,7
+145,james@lazyatom.com,James Adam,212,18,93,59
+147,jdhuntington@gmail.com,JD Huntington,61,22,97,20
+150,sevenwire@gmail.com,Sevenwire,6,0,14,1
+151,b@arbini.dev,Brandon Arbini,28,5,6,6
+152,al3x@al3x.net,Alex Payne,1053,53,47,44
+153,t@toolmantim.com,Tim Lucas,458,66,105,106
+154,nick@nicksieger.com,Nick Sieger,285,21,108,227
+155,jayphillips@gmail.com,Jay Phillips,99,12,52,40
+156,josh@hasmanythrough.com,Josh Susser,290,11,16,40
+157,jon@joncrosby.me,Jon Crosby,191,19,27,13
+158,thewoolleyman@gmail.com,Chad Woolley,135,49,205,58
+159,joshua.nichols@gmail.com,Josh Nichols,997,187,365,303
+160,patrick@gmail.com,Patrick,57,34,77,42
+161,ryan@railscasts.com,Ryan Bates,7704,96,73,64
+162,claude@seadated.com,Claude Nix,35,19,24,22
+163,tonypitale@gmail.com,Tony Pitale,129,71,47,101
+164,christian.carter@salesforce.com,Christian Carter,41,15,91,37
+165,gregborenstein@gmail.com,Greg Borenstein,703,39,228,529
+166,steveheffernan@gmail.com,Steve Heffernan,396,12,78,8
+167,entryway@gmail.com,entryway,4,0,7,14
+168,alex@tevim.com,Alexander Flatter,85,39,68,14
+169,grant@surlysoft.com,Grant Schofield,19,0,18,5
+170,rbazinet@stillriversoftware.com,Rob Bazinet,47,137,45,32
+171,aaron.junod@zsuitetech.com,Aaron Junod,28,11,23,10
+172,robeypointer@gmail.com,Robey Pointer,544,17,2,56
+173,brandonkeepers@gmail.com,Brandon Keepers,2015,61,192,90
+174,wilsonb@gmail.com,Wilson Bilkovich,86,7,49,66
+175,tom@tommorris.org,Tom Morris,228,70,146,357
+176,github@charlie.mozmail.com,Charles Roper,50,51,56,126
+177,a@adamwiggins.com,Adam Wiggins,998,16,99,68
+179,me@nathanherald.com,Nathan,214,48,168,310
+180,sam@samgranieri.com,Sam Granieri,47,110,75,35
+181,adam.french@cpanel.net,Adam French,0,0,11,13
+182,chiology@gmail.com,Matt Todd,855,497,162,104
+183,timcharper@gmail.com,Tim Harper,280,37,178,123
+184,psadauskas@gmail.com,Paul Sadauskas,127,3,167,343
+185,billkatz@gmail.com,Bill Katz,107,20,65,7
+186,shanev@gmail.com,Shane Vitarana,8,1,1,0
+187,vance@vancelucas.com,Vance Lucas,849,35,101,33
+188,nex342@gmail.com,Natalie Weizenbaum,2216,0,154,221
+190,consulting@norbauer.com,Norbauer Inc,29,0,11,0
+191,crigor@gmail.com,Christopher Rigor,45,0,79,17
+192,ted@knowtheory.net,Ted Han,213,87,58,136
+193,bj.schaefer@gmail.com,Bernerd Schaefer,129,0,82,129
+194,nap@zerosum.org,nap,217,52,117,40
+196,galinvassilev@gmail.com,Galin Vassilev,6,0,2,1
+197,michael@koziarski.com,Michael Koziarski,390,0,40,71
+198,dancroak@gmail.com,Dan Croak,416,346,18,141
+199,jeremy@hey.com,Jeremy Daer,1468,128,94,38
+201,mikemondragon@gmail.com,Mike Mondragon,100,34,20,49
+202,ryancarmelobriones@gmail.com,Ryan Carmelo Briones,136,33,71,95
+203,willfarrington@gmail.com,Will Farrington,290,34,181,146
+204,me@jasonseifer.com,Jason Seifer,237,21,15,23
+205,bobby@symlinked.com,Bobby Gaza,24,19,2,1
+206,jeff@squishtech.com,Jeff Smick,183,58,5,43
+207,codahale@gmail.com,Coda Hale,2117,18,124,34
+208,zackchandler@gmail.com,Zack Chandler,20,0,19,28
+209,jakehowerton@gmail.com,Jake Howerton,45,12,57,18
+210,evanweaver@gmail.com,Evan Weaver,209,7,39,11
+211,olle.jonsson@gmail.com,Olle Jonsson,362,333,1549,94
+212,chris@chrismcg.com,Chris McGrath,68,14,65,56
+213,chuyeow@gmail.com,Cheah Chu Yeow,136,56,73,34
+214,martyn@mloughran.com,Martyn Loughran,81,8,21,27
+215,matt@bitzesty.com,Matthew Ford,76,54,78,24
+216,henrik@nyh.se,Henrik Nyh,429,23,276,328
+217,timkersey@gmail.com,Tim Kersey,444,1082,37,55
+218,acf+github@alancfrancis.com,Alan Francis,57,2,4,4
+219,dan@benjamin.org,Dan Benjamin,464,16,7,29
+220,me@seebq.com,Charles Brian Quinn,80,15,27,29
+221,delynn@gmail.com,DeLynn Berry,40,13,51,3
+222,chadhumphries@gmail.com,Chad Humphries,287,31,36,18
+223,nathaniel@talbott.ws,Nathaniel Talbott,131,46,22,54
+224,robertonrails@gmail.com,Robert Dempsey,89,22,50,9
+225,matt@jankowski.online,Matt Jankowski,150,0,32,2
+226,danahern@gmail.com,Dan Ahern,34,1,17,25
+227,damientanner@gmail.com,Damien Tanner,83,11,35,17
+228,alexvollmer@gmail.com,Alex Vollmer,77,8,33,20
+230,scharfie@gmail.com,Chris Scharf,31,5,114,43
+231,jeffreyhardy@gmail.com,Jeffrey Hardy,6,0,0,0
+232,jonathan@daikini.com,Jonathan Younger,28,1,33,3
+233,me@tdreyno.com,Thomas Reynolds,398,1,49,183
+234,ryanheneise@gmail.com,Ryan Heneise,43,50,87,59
+235,nunemaker@gmail.com,John Nunemaker,1969,267,76,85
+236,shay@gmail.com,Shay,118,36,35,22
+237,chad@chadfowler.com,Chad Fowler,922,40,95,64
+238,superphly@gmail.com,Cody Marx Bailey,41,18,18,7
+239,swhitt@gmail.com,Steve Whittaker,24,25,17,19
+240,iam@smartic.us,Bryan Liles,548,7,249,310
+241,joshua.schairbaum@gmail.com,Josh Schairbaum,46,28,75,33
+242,adelcambre@gmail.com,Andy Delcambre,172,5,100,83
+243,jd@jdharrington.net,JD Harrington,42,9,82,49
+244,joelwatson@gmail.com,Joel Watson,102,1,35,1
+245,marcelmolina@gmail.com,Marcel Molina,227,24,28,16
+246,brapse@gmail.com,Sean Braithwaite,62,11,27,53
+247,francois@teksol.info,François Beausoleil,99,2,160,128
+248,achadha@glgroup.com,Aditya Chadha,37,8,15,17
+249,mike@vincent.ws,Mike Vincent,60,94,32,40
+250,tommy@tommymorgan.name,Tommy Morgan,87,16,9,17
+251,toredarell@gmail.com,Tore Darell,36,4,38,46
+252,harry@vangberg.name,Harry Vangberg,115,17,30,107
+253,jchris@gmail.com,Chris Anderson,678,40,215,92
+254,Greg@nsightdevelopment.com,Greg Pederson,15,4,7,5
+255,psq@nanorails.com,Pascal,46,0,74,7
+256,andrei@andreimaxim.ro,Andrei Maxim,48,3,20,35
+257,robbyrussell@gmail.com,Robby Russell,4684,87,50,57
+258,dieter@komendera.com,Dieter Komendera,86,7,69,21
+259,trevorsquires@gmail.com,Trevor Squires,72,0,8,9
+260,jon@jonmaddox.com,Jon Maddox,870,6,146,83
+261,jacobswanner@gmail.com,Jacob Swanner,91,5,58,52
+262,kastner@gmail.com,Erik Kastner,213,56,134,168
+263,timcareysmith@gmail.com,Tim Carey-Smith,0,0,293,36
+264,merb@gmail.com,Merb,4,0,14,0
+265,lachiec@gmail.com,Lachie Cox,82,28,90,92
+266,anil.wadghule@erlang-solutions.com,Anil Wadghule,124,36,129,259
+267,cwsaylor@gmail.com,Chris Saylor,48,22,25,68
+268,phil@pdatasolutions.com,Phil Ripperger,24,4,9,3
+269,kamal.fariz@gmail.com,Kamal Fariz Mahyuddin,156,62,53,48
+270,ben@bleything.net,Ben Bleything,176,43,41,31
+272,tim@gmail.com,Tim,24,19,14,1
+273,elijah.miller@gmail.com,Elijah Miller,143,63,76,95
+274,mattslack@gmail.com,Matt Slack,34,7,21,13
+275,tomas@jogin.com,Tomas Jogin,18,6,2,6
+276,robbevan@xpt.com,Rob Bevan,26,21,56,4
+277,marten@veldthuis.com,Marten Veldthuis,28,2,90,34
+278,hemantkumar@gmail.com,Hemant Kumar,292,116,223,137
+279,phenryewing@gmail.com,Phenry Ewing,423,199,49,24
+280,rebeccataylor@gmail.com,Rebecca Taylor,462,0,71,147
+281,jmckenty@gmail.com,Joshua McKenty,108,96,92,9
+282,davidlwenfels@gmail.com,David Löwenfels,36,17,59,8
+283,floyd@hampton.io,Floyd Price,14,3,52,9
+284,allison@github.alliesaur.us,Allison Lara,33,8,25,4
+286,dan@dofter.com,Dan Dofter,53,8,25,13
+287,paulmucur@gmail.com,Paul Mucur,111,15,94,122
+288,jonasvonandrian@gmail.com,Jonas von Andrian,44,4,27,5
+290,scottsteadman@gmail.com,Scott Steadman,41,29,21,0
+291,sharon@noteflakes.com,Sharon Rosner,225,28,14,8
+292,sylvain.joyeux@m4x.org,Sylvain Joyeux,70,1,78,21
+293,davidleal@gmail.com,David Leal,63,2,12,12
+294,pedromg@gmail.com,pedro mg,42,63,57,22
+295,wayneseguin@gmail.com,Wayne Seguin,10,1,0,0
+296,stevesanderson@gmail.com,Steve Sanderson,29,0,33,1
+297,McPhage@gmail.com,Mark Josef,86,26,40,60
+298,jasonlperry@gmail.com,Jason L Perry,273,98,226,152
+299,jan@krutisch.de,Jan Krutisch,198,9,221,31
+300,cannikin@fastmail.com,Rob Cameron,169,6,145,83
+301,me@anthonylewis.com,Anthony Lewis,53,1,52,6
+302,mark@markcornick.com,Mark Cornick,29,6,10,4
+303,ian@gmail.com,Ian,26,0,12,1
+305,mcg@braintube.com,Matthew Gregg,29,2,36,7
+306,sco@scottraymond.net,Scott Raymond,539,512,33,24
+307,norioshimizu@gmail.com,Norio Shimizu,111,79,6,8
+308,mail@anttih.com,Antti Holvikari,61,36,85,14
+309,vincenibler@gmail.com,Vince Nibler,7,3,65,6
+310,jim@jimvanfleet.com,Jim Van Fleet,109,26,61,67
+311,alexanderkellett@gmail.com,Alexander Kellett,12,0,62,19
+312,mihaianca@gmail.com,Mihai Anca,62,45,5,11
+313,rich@gmail.com,Rich,9,0,30,4
+314,zach.moazeni@gmail.com,Zach Moazeni,137,48,59,63
+315,ed.moss@4ssom.com,Edwin Moss,13,1,9,1
+316,tom@formrausch.com,Thomas Winkler,26,32,39,3
+317,the.nicholas.nick@gmail.com,Nicholas Orr,19,0,64,96
+318,hello@michaelbumann.com,Michael Bumann,476,550,187,77
+319,dag.odenhall@gmail.com,Dag Odenhall,99,30,100,2
+320,c+g@ruckusing.com,Cody Caughlan,65,20,29,90
+321,mattlins@gmail.com,Matt Lins,16,3,39,22
+323,labria@startika.com,Dimitri Krassovski,59,8,17,16
+325,edwardocampogooding@gmail.com,Edward Ocampo-Gooding,332,79,124,82
+326,danielsiemssen@gmail.com,Daniel Siemssen,11,3,5,0
+327,kyle@vorpalcode.com,Kyle Burckhard,40,20,15,12
+328,jeremy@burkshouse.com,Jeremy Burks,29,6,24,17
+329,chris@cobaltedge.com,Chris Bailey,70,2,35,57
+331,vborja@apache.org,Victor Borja,463,1019,351,69
+332,tonykemp@gmail.com,Tony Kemp,7,3,9,7
+333,simonharris@gmail.com,Simon Harris,89,2,5,92
+334,ttcremers@gmail.com,Thomas Cremers,19,6,38,2
+335,brandonmitchell@gmail.com,Brandon Mitchell,54,12,9,21
+336,bmiranda+auto@doximity.com,Bruno Miranda,64,23,31,9
+338,hchoroomi@gmail.com,H Choroomi,58,47,52,65
+339,iourigoussev@gmail.com,Iouri Goussev,23,14,24,6
+340,jamesmacaulay@gmail.com,James MacAulay,151,0,59,52
+341,njacobeus@gmail.com,Nicolas Jacobeus,21,0,8,1
+342,djdavis@gmail.com,DJ Davis,9,0,4,0
+343,octavezangs@gmail.com,Octave Zangs,16,5,12,3
+344,damonclinkscales@gmail.com,Damon Clinkscales,134,94,16,29
+346,stphanebusso@gmail.com,Stéphane Busso,179,150,930,78
+347,tobiasltke@gmail.com,Tobias Lütke,2275,54,63,36
+348,jftucker@gmail.com,James Tucker,800,245,180,83
+349,steve@took.es,Steve Tooke,51,23,128,62
+350,aurelianoancea@gmail.com,Aurelian Oancea,43,8,32,59
+351,zkron@gmail.com,zkron,6,3,2,4
+352,gnanasekaranthoppae@gmail.com,Gnanasekaran Thoppae,11,17,16,3
+353,luke@lukemelia.com,Luke Melia,237,8,149,84
+354,andygoldstein@gmail.com,Andy Goldstein,227,37,163,569
+355,bendik@lynghaug.me,Bendik Aagaard Lynghaug,48,86,17,8
+356,shantibraford@gmail.com,Shanti Braford,21,15,7,5
+357,mattpalmer@gmail.com,Matt Palmer,97,0,186,14
+358,jens.norrgrann@bukowskis.com,Jens Norrgrann,11,1,15,13
+359,moneyspyder@gmail.com,Moneyspyder,2,0,52,0
+360,tomlocke@gmail.com,Tom Locke,74,1,71,24
+362,jon@blankpad.net,Jon Wood,51,6,80,33
+363,mascarenhas@gmail.com,Fabio Mascarenhas,109,13,37,21
+365,pius@alum.mit.edu,Pius Uzamere,77,43,86,36
+366,nullstyle@gmail.com,Scott Fleckenstein,161,12,121,35
+368,guillaume.carbonneau@gmail.com,Guillaume Carbonneau,26,10,42,4
+369,samaaron@gmail.com,Sam Aaron,1788,30,115,122
+370,endersonmaia@gmail.com,Enderson Maia,109,48,67,7
+371,developers@flowersinspace.com,Flowers in Space,10,0,3,1
+372,adam@adamlogic.com,Adam McCrea,90,0,71,33
+373,git@alexgirard.com,Alexandre Girard,203,93,272,88
+374,sproutitsproutcore@gmail.com,Sproutit/SproutCore,3,0,21,60
+375,august@augustl.com,August Lilleaas,198,0,48,205
+378,tpope@tpope.net,Tim Pope,21464,20,84,56
+379,lourens@methodmissing.com,Lourens Naudé,338,182,105,266
+380,mariuszciela@gmail.com,Mariusz Cieśla,60,3,35,31
+381,martinpalma@gmail.com,Martin Palma,26,89,33,5
+382,gary@planetargon.com,Gary Blessington,16,0,4,0
+383,kangax@gmail.com,Juriy Zaytsev,3323,16,81,118
+384,sd@notso.net,Sebastian Delmont,180,0,54,15
+385,drewnewberry@gmail.com,Drew Newberry,34,6,11,2
+386,ravilbayramgalin@gmail.com,Ravil Bayramgalin,185,19,62,77
+387,wayne@larsen.st,Wayne Larsen,29,11,43,11
+388,adamkeys@gmail.com,Adam Keys,230,183,62,32
+389,rogelio@therubymug.com,Rogelio J. Samour,115,10,22,7
+390,me@chrisgriffin.org,Chris Griffin,33,28,1,1
+392,jason.herald@me.com,Jason Herald,15,10,25,2
+393,bruno.mattarollo@gmail.com,Bruno Mattarollo,67,79,33,5
+394,robertevans@gmail.com,Robert Evans,107,21,49,123
+395,jameshill@gmail.com,James Hill,37,28,1,3
+396,trankas@gmail.com,João Estêvão,7,15,0,0
+397,crafterm@redartisan.com,Marcus Crafter,183,107,25,12
+398,matt@allen.com.au,Matt Allen,32,0,33,11
+399,david@goodlad.net,David Goodlad,119,7,107,17
+402,trevorturk@gmail.com,Trevor Turk,338,185,79,112
+404,r@tomayko.com,rtomayko,2357,100,22,88
+405,timburks@me.com,Tim Burks,690,118,153,44
+406,gaveenprabhasara@gmail.com,Gaveen Prabhasara,36,19,10,14
+407,waqas@gmail.com,Waqas,13,0,1,0
+408,don@donpetersen.net,Don Petersen,31,1,21,51
+409,antonithock@gmail.com,Thock,16,1,7,0
+410,oyvind.saltvik@gmail.com,Øyvind Saltvik,68,30,139,26
+411,andi.bade@gmail.com,Andreas Bade,36,25,48,6
+412,carlmercier@gmail.com,Carl Mercier,134,34,192,51
+413,tcashion@riotgames.com,Trotter Cashion,163,0,117,41
+414,dudleyflanders@gmail.com,Dudley Flanders,34,3,31,17
+415,kevin@lookingsideways.co.uk,Kevin Ansfield,152,0,90,129
+417,luigiraymontaez@gmail.com,Luigi Ray-Montañez,128,28,23,54
+418,mattswasey@gmail.com,Matt Swasey,4,0,0,0
+419,gotascii@gmail.com,Justin Marney,42,10,56,26
+420,ross.lawley@gmail.com,Ross Lawley,317,23,113,37
+421,frankbolero@gmail.com,Frank Bolero,40,65,7,3
+422,ricardoshiotayasuda@gmail.com,Ricardo Shiota Yasuda,165,19,84,32
+423,anthonyunderwood@gmail.com,Anthony Underwood,47,4,99,39
+424,david@gmail.com,David,27,27,23,2
+425,james@abscond.org,James Darling,182,37,80,33
+426,xraid@gmail.com,xraid,8,2,12,4
+427,mariuszpietrzyk@gmail.com,Mariusz Pietrzyk,35,15,20,4
+428,parabuzzle@gmail.com,Mike Heijmans,0,0,108,32
+429,damien@mc-kenna.com,Damien McKenna,42,0,52,2
+430,nz@omc.io,Nick Zadrozny,62,37,73,98
+431,tylerferrier@gmail.com,Tyler Ferrier,9,1,12,1
+432,mail at may.mooo.com,allan,9,5,5,0
+433,benscofield@gmail.com,Ben Scofield,93,12,36,40
+434,tkofol@gmail.com,Tim Kofol,5,1,4,0
+435,treypiepmeier@gmail.com,Trey Piepmeier,150,179,42,198
+436,jimmykittiyachavalit@gmail.com,Jimmy Kittiyachavalit,48,2,13,3
+437,foca@foca.io,Nicolás Sanguinetti,372,95,200,121
+438,mathie@woss.name,Graeme Mathieson,83,35,45,69
+439,jarkko@jlaine.net,Jarkko Laine,26,0,48,12
+440,norbert.crombach@primetheory.org,Norbert Crombach,88,62,56,4
+441,johnduff@gmail.com,John Duff,134,56,76,15
+442,gustav.paul@gmail.com,Gustav Paul,37,5,92,2
+443,pablete@gmail.com,Pablo A. Delgado,81,92,27,40
+444,patrick@mokolabs.com,Patrick Crowley,63,36,45,27
+445,alex.williamson@redhat.com,Alex Williamson,106,0,25,4
+447,dysinger@gmail.com,Dysinger,241,12,86,154
+448,mlussier@gmail.com,Mark Lussier,70,48,26,17
+449,aarondvalade@gmail.com,Aaron D. Valade,23,11,39,10
+450,louscoras@gmail.com,Lou Scoras,35,19,30,19
+451,brian@customated.com,Brian Loomis,31,128,221,22
+452,yrashk@gmail.com,Yurii Rashkovskii,731,603,300,44
+454,randysouza@gmail.com,Randy Souza,21,12,45,6
+455,chris@gmail.com,Chris,19,3,24,1
+456,rodrigofranco@gmail.com,Rodrigo Franco,326,0,67,52
+458,timothyperrett@gmail.com,Timothy Perrett,220,16,127,99
+459,voodootikigod@gmail.com,Chris Williams,707,115,119,127
+460,kwevans@gmail.com,Kevin Evans,23,23,114,11
+461,berndahlers@gmail.com,Bernd Ahlers,147,35,106,39
+462,winson@gmail.com,winson,16,33,0,0
+463,chrisblackburn@gmail.com,Chris Blackburn,4,2,3,0
+464,hannes@kunstreich.name,Hannes Kunstreich,18,12,9,7
+465,emanuel@yarilabs.com,Emanuel Mota,36,44,24,7
+466,chris.d.williams@gmail.com,Chris Williams,11,6,11,4
+467,mando@mando.org,Mando Escamilla,59,49,58,26
+468,zh@zhware.net,Stoyan Zhekov,156,60,131,86
+469,brandon.beacher@gmail.com,Brandon Beacher,36,45,34,233
+470,eric@5stops.com,Eric Lindvall,248,42,210,164
+471,iwarshak@stripey.net,Ian Warshak,39,6,66,22
+472,sudara@rubytune.com,Sudara,257,14,90,43
+473,choonkeat@gmail.com,Chew Choon Keat,179,20,144,227
+474,christopherbowns@gmail.com,Christopher Bowns,89,40,62,30
+475,alanharper@gmail.com,Alan Harper,63,0,48,17
+476,zacheryph@gmail.com,Zachery Hostens,39,33,33,12
+477,dustymatthews@gmail.com,Dusty Matthews,40,20,10,11
+478,benjamin@wobolando.com,Benjamin Birnbaum,21,3,12,2
+479,jackdempsey@gmail.com,jack dempsey,87,7,182,196
+480,blahutka@gmail.com,blahutka,11,1,60,27
+481,chrisabad@gmail.com,Chris Abad,7,1,8,0
+482,alexwayne@gmail.com,Alex Wayne,52,1,60,72
+483,patnakajima@gmail.com,Pat Nakajima,778,143,175,196
+484,markreid@gmail.com,Mark Reid,101,10,26,13
+485,melo@simplicidade.org,Pedro Melo,278,164,211,65
+486,jonseidel@gmail.com,Jon Seidel,21,8,62,10
+487,mikesimkins@gmail.com,Mike Simkins,10,12,21,3
+488,angelo@gmail.com,Angelo,32,42,11,5
+489,wrenchlabs@gmail.com,Wrench Labs,1,0,1,0
+490,jfcouture@gmail.com,Jean-Francois Couture,30,10,13,2
+491,cuong.tran@gmail.com,Cuong Tran,66,4,31,29
+492,garyharan@gmail.com,Gary Haran,99,78,84,48
+494,saimonmoore@gmail.com,Saimon Moore,78,53,162,119
+496,seansantry@gmail.com,Sean Santry,11,0,23,0
+497,urubatan@gmail.com,Rodrigo Urubatan Ferreira Jardim,126,4,50,8
+498,kevinfagan@gmail.com,Kevin Fagan,24,36,2,2
+499,judofyr@gmail.com,Magnus Holm,519,56,198,91
+500,jjmerelo@gmail.com,Juan Julián Merelo Guervós,979,51,1192,77
+501,tfwright@tfwright.info,T. Floyd Wright,43,9,68,11
+502,patricklenz@gmail.com,Patrick Lenz,39,4,16,8
+503,robgabaree@gmail.com,Rob Gabaree,14,2,3,0
+505,martinkhl@gmail.com,Martin Kühl,162,89,163,85
+506,nicolasmrouze@gmail.com,Nicolas Mérouze,130,3,24,46
+507,franc@crow.za.net,Franc Paul,14,10,37,9
+508,kruse@hmi-project.com,Philipp Kruse,9,4,10,6
+509,dbrben@gmail.com,dbr/Ben,179,45,73,70
+510,kylehargraves@gmail.com,Kyle Hargraves,78,10,59,27
+511,kieran@invisiblelines.com,Kieran Johnson,13,1,28,1
+512,jeroenjanssen@gmail.com,Jeroen Janssen,70,7,47,10
+513,atharh@gmail.com,Athar Hameed,28,21,6,6
+514,jasonspeck@gmail.com,Jason Speck,18,3,2,2
+515,leehenson@gmail.com,Lee Henson,54,24,53,0
+516,donpinkster@gmail.com,Don Pinkster,15,1,2,24
+517,robertjackson@gmail.com,Robert Jackson,4,0,0,0
+518,pontus_github@soua.net,Pontus Freyhult,18,5,121,5
+519,nadeem.bitar@icloud.com,Nadeem Bitar,27,22,271,160
+521,matthewmansfield@gmail.com,Matthew Mansfield,10,11,7,2
+522,dbcm@profundos.org,Delfim Machado,40,25,19,3
+523,brett@librum.org,brett,46,223,20,5
+524,james.deville@gmail.com,Jim Deville,44,17,86,40
+525,matthew.d.williams@gmail.com,Matthew Williams,41,30,25,37
+526,jendrik@gmail.com,Jendrik,7,1,15,0
+527,michaelarmbrust@gmail.com,Michael Armbrust,291,0,23,11
+529,me@ari.io,Ari,1004,415,396,248
+530,fauxparse@gmail.com,Matt Powell,41,6,144,40
+531,viktor.lieskovsky@gmail.com,Viktor Lieskovsky,7,10,9,2
+532,hughbien@gmail.com,Hugh Bien,23,23,30,1
+533,vishnugopal@gmail.com,Vishnu Gopal,123,0,66,31
+534,eric@trigger.dev,Eric Allam,275,32,170,73
+535,steve@kotiri.com,Steve Hoeksema,55,9,146,80
+536,justinpease@gmail.com,Justin Pease,29,5,20,5
+538,codafoo@gmail.com,Codafoo,12,7,15,0
+539,uros@fusedevice.com,Uros Zekar,6,0,1,0
+540,antoinemillet@gmail.com,Antoine Millet,36,34,25,25
+541,mikaelhallendal@gmail.com,Mikael Hallendal,68,6,45,15
+542,adamroth@gmail.com,Adam Roth,28,12,46,1
+543,brainvat@mac.com,Allen Hammock,21,6,6,0
+545,schelcj@pobox.com,Chris Scheller,12,15,40,0
+546,drudru@gmail.com,Dru Nelson,25,0,46,0
+548,bct@diffeq.com,Brendan Taylor,29,29,47,19
+549,richmanalang@gmail.com,Rich Manalang,75,27,112,91
+550,andrewobrien@gmail.com,Andrew O'Brien,38,18,67,29
+551,natejackson@gmail.com,Nate Jackson,19,0,24,2
+553,sutto@sutto.net,Darcy Laycock,347,239,123,122
+554,roop@roopc.net,Roopesh Chander,45,1,37,11
+555,ipvm@gmail.com,IPVM,2,0,1,0
+556,jedidiahhurt@gmail.com,Jedidiah Hurt,12,8,54,34
+557,dnoelte@gmail.com,marvin,75,207,82,93
+558,john.critz@gmail.com,JC,17,0,2,6
+559,thomas@lecavelier.name,Thomas Lecavelier,54,42,60,3
+561,jasonhill@gmail.com,Jason Hill,18,0,1,1
+563,petridish@gmail.com,Bryce Mecum,90,110,243,200
+564,susanpotter@gmail.com,Susan Potter,487,0,255,204
+565,tomtaylor@gmail.com,Tom Taylor,242,57,130,36
+566,will@kickplan.com,Will Clark,28,12,37,25
+567,ranykeddo@gmail.com,Rany Keddo,126,62,8,5
+568,nmeans@gmail.com,Nickolas Means,76,4,63,13
+569,alexwolfe@gmail.com,Alex Wolfe,18,0,88,8
+570,jonathanconway@gmail.com,Jonathan Conway,47,24,13,23
+571,timurvafin@gmail.com,Timur Vafin,44,18,49,80
+572,jari.bakken@gmail.com,Jari Bakken,332,129,131,627
+573,daviemoston@gmail.com,davie moston,11,3,18,3
+574,justin.d.poliey@gmail.com,Justin Poliey,96,92,44,94
+576,scottmcmillin@gmail.com,Scotty McMillin,22,13,31,33
+577,kiril.angov@gmail.com,Kiril Angov,69,76,27,20
+578,brendan@usergenic.com,Brendan Baldwin,67,27,46,73
+579,mikealrogers@gmail.com,Mikeal Rogers,4909,104,507,210
+580,joshmatthews@gmail.com,Josh Matthews,6,6,16,3
+581,johnprobitaille@gmail.com,John P Robitaille,11,6,0,3
+583,rocketeer.captproton@gmail.com,captproton,25,44,329,122
+584,me@ludo.is,Ludo van den Boom,42,1,67,8
+585,arisbartee@gmail.com,Aris,33,82,31,5
+586,old_dm@yahoo.com,Ed Allen,17,19,12,2
+587,nate.hatcher@gmail.com,Nate Hatcher,13,9,8,0
+588,nickdainty@gmail.com,Nick Dainty,17,6,17,2
+589,joao.vitor@gmail.com,Joao Vitor Lacerda Guimaraes,113,77,32,17
+590,chrishobbs@gmail.com,Chris Hobbs,13,3,36,0
+591,simon.menke@gmail.com,Simon Menke,117,70,185,34
+593,naitikshah@gmail.com,Naitik Shah,500,159,190,6
+594,pedrofigueiredo@gmail.com,Pedro Figueiredo,56,33,133,29
+595,nate@daiger.com,Nate Daiger,6,0,15,8
+596,corey@void.dev,Corey Johnson,747,2,99,87
+597,ymendel@pobox.com,Yossef Mendelssohn,217,1,43,95
+598,jeff@somethingsimilar.com,Jeff Hodges,492,30,234,70
+599,juan@gallegoiv.com,Juan Gallego IV,43,15,11,15
+600,pavlozahozhenko@gmail.com,Pavlo Zahozhenko,8,6,13,2
+601,mikeriley@gmail.com,Mike Riley,22,5,24,0
+602,noah@chromakey.io,k. noah howerton,25,2,19,4
+604,ian@mckellar.org,Ian McKellar,132,42,123,26
+605,bansalakhil30.10@gmail.com,Akhil Bansal,22,5,62,14
+606,jesseproudman@gmail.com,Jesse Proudman,42,1,43,19
+608,murraysteele@gmail.com,Murray Steele,85,0,29,35
+610,mdub@dogbiscuit.org,Mike Williams,100,15,102,39
+611,marty@martyandrews.net,Marty Andrews,37,0,9,1
+612,wojciechpiekutowski@gmail.com,Wojciech Piekutowski,26,5,10,13
+613,luke@lukeredpath.co.uk,Luke Redpath,568,16,109,211
+614,andykent@gmail.com,Andy Kent,86,2,39,16
+615,bjarkigudlaugsson@gmail.com,Bjarki Gudlaugsson,15,5,26,9
+616,aemadrid@gmail.com,Adrian Madrid,22,3,75,3
+617,nicholas.mulder@gmail.com,Nicholas Mulder,33,17,29,68
+618,jeremyboles@gmail.com,Jeremy Boles,25,0,1,0
+619,rogerhsueh@gmail.com,Roger Hsueh,6,1,3,6
+620,daniel@humandoing.net,Daniel Wintschel,14,1,4,6
+621,george@gmail.com,George,58,11,16,44
+622,dougramsay@gmail.com,Doug Ramsay,16,0,27,32
+623,jonmagic@gmail.com,Jonathan Hoyt,454,55,178,66
+624,christopherkilmer@gmail.com,Chris Kilmer,10,0,0,3
+625,zpinter@gmail.com,Zachary Pinter,19,1,40,4
+626,banderson623@gmail.com,Brian Anderson,54,49,78,50
+627,bigethan@gmail.com,Big Ethan,21,3,62,12
+628,leemarlow@gmail.com,Lee Marlow,28,42,76,8
+629,jason@rimmer.net,Jason Rimmer,14,3,10,6
+630,oliverlegg@gmail.com,Oliver Legg,42,31,41,53
+631,hookercookerman@gmail.com,Richard Hooker,41,8,169,6
+632,rubenlozano@gmail.com,Ruben Lozano,75,144,0,3
+633,me@doxavore.com,Doug Mayer,23,9,13,50
+634,beewebb@gmail.com,Bee Webb,29,22,94,57
+635,danieleriksson@gmail.com,Daniel Eriksson,56,1,40,4
+636,christoffer.sawicki@gmail.com,Christoffer Sawicki,95,286,43,44
+637,leavengood@gmail.com,Ryan Leavengood,26,0,22,4
+638,peter@nightmeat.club,peter woodman,34,32,117,19
+639,barrymitchelson@gmail.com,Barry Mitchelson,18,2,21,9
+640,ph@heykimo.com,Pier-Hugues Pellerin,158,144,297,132
+641,paul@bissex.net,Paul Bissex,66,37,27,0
+642,fraser@speirs.org,Fraser Speirs,135,11,25,2
+643,fernandoallen@gmail.com,Fernando Allen,6,2,1,0
+644,david@litmus.com,David Smalley,32,6,5,11
+645,github.com@nilsjonsson.com,Nils Jonsson,71,131,25,22
+646,ecin@gmail.com,ecin,38,10,75,42
+647,progrium@gmail.com,Jeff Lindsay,3790,92,260,144
+648,jhsu.x1@gmail.com,Joe Hsu,101,80,226,191
+649,hipertracker@gmail.com,Jaroslaw Zabiello,55,6,116,234
+650,mindy@gmail.com,Mindy,21,5,6,19
+651,james@thomps.onl,James Thompson,56,27,57,25
+652,jafiset@gmail.com,Jason Fiset,5,0,36,2
+653,robmitchell@gmail.com,Rob Mitchell,10,0,9,0
+654,marcolopes@gmail.com,Marco Lopes,28,6,66,16
+655,sross@gmail.com,s.ross,8,0,46,27
+656,tf@7sols.com,Tomislav Filipcic,44,10,9,1
+657,bbailey@hey.com,Brian Bailey,21,3,0,1
+658,me@stephencelis.com,Stephen Celis,5744,36,130,42
+659,mgebetsroither@mgit.at,Michael Gebetsroither,69,5,83,18
+660,intinig@gmail.com,Giovanni Intini,41,4,82,107
+661,benr@x-cr.com,Ben Reubenstein,36,14,19,13
+663,jamesross@gmail.com,James Ross,9,1,5,2
+664,justin@blaix.com,Justin Blake,83,31,86,92
+665,zach@superhero-studios.com,Zach Inglis,152,81,36,25
+666,kevin@kstewart.me,Kevin Stewart,40,0,5,0
+668,cc@lows.sg,Low Chin Chau,30,0,37,4
+669,tim@timmorgan.org,Tim Morgan,728,325,117,106
+670,thomasolausson@gmail.com,Thomas Olausson,13,5,18,42
+671,mike@kouky.org,Michael Koukoullis,103,32,46,9
+672,joshuaglock@gmail.com,Joshua G Lock,20,31,18,4
+673,redinger@gmail.com,Chris Redinger,103,8,49,11
+674,steele@osteele.com,Oliver Steele,530,9,151,37
+675,olivier@gmail.com,Olivier,26,0,15,8
+677,jamesmccarthy@gmail.com,James McCarthy,48,46,36,3
+678,mail@jim.io,Jim Lindley,47,2,14,38
+679,kim@kimdalsgaard.com,Kim Dalsgaard,19,3,55,4
+680,grantr@gmail.com,Grant Rodgers,237,2,109,50
+682,mfroehlich@gmail.com,Mirko Froehlich,30,0,11,4
+683,rob@robmack.com,Rob Mack,25,6,16,2
+684,russ@bashme.org,Russ Smith,57,20,184,110
+685,alex@eaglepeakweb.com,Alex Aguilar,13,29,21,7
+686,lsegal@soen.ca,Loren Segal,490,1,95,136
+687,michakalbarczyk@gmail.com,Michał Kalbarczyk,95,37,175,2
+688,kyokuma@gmail.com,Guillaume Faure,10,8,26,2
+689,dermot.brennan@gmail.com,Dermot Brennan,12,1,22,1
+690,mat@schaffer.me,Mat Schaffer,252,10,251,244
+692,bryckbost@gmail.com,Brian Ryckbost,68,49,27,18
+693,vladimirpouzanov@gmail.com,Vladimir Pouzanov,273,16,272,68
+694,me@lds.li,Lincoln Stoll,264,6,227,68
+695,scottbellware@gmail.com,Scott Bellware,109,17,4,70
+696,caiusdurling@gmail.com,Caius Durling,211,144,334,467
+697,davegiunta@gmail.com,Dave Giunta,34,48,57,13
+698,olegandreev@gmail.com,Oleg Andreev,771,43,93,75
+699,nickkallen@gmail.com,Nick Kallen,688,13,69,47
+700,heycarsten@gmail.com,Carsten Nielsen,136,133,23,51
+701,jokull@solberg.is,Jökull Sólberg Auðunsson,156,176,95,37
+702,gavinjohnnoonan@gmail.com,Gavin-John Noonan,0,0,29,11
+703,johnparker@gmail.com,John Parker,14,0,52,55
+704,greglowe@gmail.com,Greg Lowe,27,0,32,5
+706,tekkub@gmail.com,Tekkub,6497,5,22,214
+707,kasparlonscher@gmail.com,Kaspar Lonscher,11,3,5,2
+708,seaofclouds@gmail.com,seaofclouds,146,26,32,30
+709,jared@alloycode.com,Jared Haworth,12,1,8,5
+710,delagoya@gmail.com,Angel Pizarro,51,21,36,31
+711,selem@selem.im,Selem Delul,22,25,55,9
+712,maxwellaugustcroy@gmail.com,Maxwell August Croy,16,22,2,0
+713,jonmolina@gmail.com,Jon Molina,27,23,28,14
+714,lily@ballards.net,Lily Ballard,931,38,158,271
+715,brent@gmail.com,Brent,11,12,23,22
+716,jonbracy@gmail.com,Jon Bracy,28,11,52,38
+717,sethengelhard@gmail.com,Seth Engelhard,14,1,9,0
+718,chris@chrislloyd.net,Chris Lloyd,279,170,11,95
+719,gregbell@gmail.com,Greg Bell,231,0,30,11
+720,duynguyen@gmail.com,Duy Nguyen,191,1,3,21
+721,yesmar@gmail.com,ɹɐɯsǝʎ,12,6,7,25
+722,brettgibson@gmail.com,Brett Gibson,22,3,34,7
+723,xenith@xenith.org,Justin Seabrook-Rocha,39,27,9,2
+724,akalin@martinisoftware.com,Aaron Kalin,114,10,34,34
+725,marcbellingrath@gmail.com,Marc Bellingrath,21,12,16,1
+726,pauljbarry3@gmail.com,Paul Barry,76,57,114,116
+727,speak@gibberish.cyou,Gibberish Umbra,5,8,2,0
+728,revelation@gmail.com,Revelation,5,0,24,27
+730,mike@blowmage.com,Mike Moore,229,21,114,24
+731,andrew.sayman+github@gmail.com,Andrew Sayman,11,5,43,2
+732,berndledig@gmail.com,Bernd Ledig,6,0,4,0
+733,traviswinters@gmail.com,Travis Winters,28,13,6,1
+734,schmidt@nach-vorne.eu,Gregor Schmidt,55,40,58,7
+736,christoszisopoulos@gmail.com,Christos Zisopoulos,73,46,8,36
+738,pritesh@phatforge.com,Pritesh,33,74,128,50
+739,movedtogithubcomslant@gmail.com,Moved to github.com/slant,9,3,0,0
+740,ryan@mcgeary.org,Ryan McGeary,342,17,211,49
+741,stephenwooten@gmail.com,Stephen Wooten,24,4,11,6
+742,mikhailshirkov@gmail.com,Mikhail Shirkov,11,6,63,10
+743,luke@hoersten.org,Luke Hoersten,115,1,45,13
+744,cohen1@gmail.com,Ron Cohen,80,84,61,4
+745,pipopolam@gmail.com,Maxim Filatov,93,35,7,20
+746,stefansaasen@gmail.com,Stefan Saasen,54,33,43,2
+747,jeansebastien.ney@gmail.com,Jean-Sébastien Ney,76,341,93,44
+748,tom.malone@mac.com,Tom Malone,41,3,11,2
+749,mortenbagai@gmail.com,Morten Bagai,30,0,4,26
+750,steveerickson@gmail.com,Steve Erickson,8,0,4,1
+751,brandtlofton@gmail.com,Brandt Lofton,9,12,36,8
+752,djspiewak@gmail.com,Daniel Spiewak,2297,0,143,317
+754,jason@goecke.net,Jason Goecke,136,11,58,4
+755,alexanderbrandoncoles@gmail.com,Alexander Brandon Coles,186,225,171,88
+756,stefanocobianchi@gmail.com,Stefano Cobianchi,16,1,8,21
+757,mde@fleegix.org,Matthew Eernisse,720,10,45,49
+758,oliver@andrich.me,Oliver Andrich,47,15,6,3
+759,baldur.gudbjornsson@gmail.com,Baldur Gudbjornsson,44,21,60,33
+760,chrischerry@gmail.com,Chris Cherry,39,14,45,28
+761,randallpotter@gmail.com,Randall Potter,21,14,78,36
+762,aditya.sanghi@risingsuntech.net,Aditya Sanghi,112,75,80,10
+763,robmalko@gmail.com,Robert Malko,154,106,144,12
+764,pabloc@gmail.com,PabloC,0,0,11,13
+765,jerrodblavos@gmail.com,Jerrod Blavos,25,18,71,1
+766,jimfreeze@gmail.com,Jim Freeze,36,0,53,29
+767,vigosan@gmail.com,Vicent Gozalbes,57,98,60,32
+768,fbrubacher@gmail.com,Federico Brubacher,42,4,38,20
+769,mvanholstyn@gmail.com,Mark Van Holstyn,41,2,53,6
+770,zach@zachbaker.com,Zach Baker,15,10,27,2
+771,github@vo.racio.us,Bryan Kam,8,3,19,0
+772,alex.gaynor@gmail.com,Alex Gaynor,9895,38,468,81
+773,christoph@luppri.ch,Christoph Lupprich,34,18,90,18
+775,jordan@brock.id.au,Jordan Brock,28,12,68,23
+776,brijohn@gmail.com,Brian Johnson,30,0,42,0
+777,marcusahnve@gmail.com,Marcus Ahnve,26,26,0,17
+778,github@philburrows.com,Phil Burrows,71,9,68,26
+779,alex.boussinet@gmail.com,Alex Boussinet,7,0,4,0
+781,peterwd@gmail.com,Peter WD,0,0,43,35
+782,ernie@bello.nyc,Ernie Bello,67,22,24,16
+783,waynekeenan@gmail.com,Wayne Keenan,5,0,0,0
+784,ben@benslavin.com,Ben Slavin,37,12,23,4
+785,kevin@kevinfinlayson.com,Kevin Finlayson,16,11,3,6
+786,adam@codebright.net,Adam Salter,21,0,13,5
+789,rpheath@gmail.com,Ryan Heath,38,3,31,24
+790,christopher.rohde@gmail.com,Chris Rohde,9,6,7,12
+791,erikpeterson@gmail.com,Erik Peterson,42,27,38,7
+792,dusty@doris.name,Dusty Doris,34,26,74,8
+793,jansonhartliep@gmail.com,Janson Hartliep,24,11,12,10
+794,nexneo@gmail.com,Niket Patel,32,6,37,19
+795,dmitrydzema@gmail.com,Dmitry Dzema,26,10,31,29
+796,markcarey@gmail.com,Mark Carey,14,5,13,21
+797,bascule@gmail.com,Tony Arcieri,1844,34,173,350
+798,kfl62g@gmail.com,Ferenc-Loránt Kiss,6,0,16,17
+801,josephskufca@gmail.com,Joseph Skufca,6,1,0,0
+802,sean@seangeo.me,Sean Geoghegan,24,5,22,9
+804,apodaras@gmail.com,Alex Podaras,22,5,23,5
+805,barushev+github@gmail.com,Denis Barushev,43,34,47,15
+806,francois@hodierne.net,François Hodierne,209,65,48,0
+807,wiktorschmidt@gmail.com,Wiktor Schmidt,35,0,2,1
+808,chris@christopher-richards.net,Chris Richards,8,4,20,13
+810,maciekszczesniak@gmail.com,Maciek Szczesniak,35,31,10,0
+812,liuwenju@gmail.com,liu wen ju,53,19,29,15
+814,nimai.e@gmail.com.au,Nimai Etheridge,8,3,3,8
+815,evschoemaker@gmail.com,Elliot Schoemaker,13,14,4,11
+816,briancorrigan@gmail.com,Brian Corrigan,60,24,16,48
+817,iambpentameter@gmail.com,Avrohom Katz,37,19,107,50
+818,coutu@snowy-owl.com,Dan Coutu,4,0,2,1
+819,hongli@hongli.nl,Hongli Lai,869,0,86,122
+820,jonahfox@gmail.com,weepy,131,23,108,103
+822,jose@peleteiro.net,Jose Peleteiro,209,145,8,32
+823,schwarzmann@gmail.com,Igor Schwarzmann,7,0,3,0
+824,milesforrest@gmail.com,Miles Forrest,36,22,35,10
+825,petar@petar.dev,Petar Radošević,94,10,21,46
+826,mkomitee@gmail.com,Michael Komitee,21,1,23,7
+828,jrgbattermann@gmail.com,Jörg Battermann,33,0,53,5
+829,mutwinkraus@gmail.com,Mutwin Kraus,161,3,62,24
+830,paulboxley@gmail.com,Paul Boxley,30,9,17,13
+831,shanesveller@gmail.com,Shane Sveller,125,183,56,32
+832,brenton.leanhardt@gmail.com,Brenton Leanhardt,41,0,54,5
+833,mike@gmail.com,Mike,19,1,5,0
+834,martinzibert@gmail.com,Martin Zibert,16,12,8,1
+835,eugzol@gmail.com,Eugene Zolotarev,39,1,36,4
+836,cameronbooth@gmail.com,Cameron Booth,36,3,45,7
+837,danielvonfange@gmail.com,Daniel Von Fange,114,2,52,42
+838,michelefinotto@gmail.com,Michele Finotto,6,0,59,5
+839,patricktaylor@mac.com,Patrick Taylor,21,9,63,2
+840,nclaude@gmail.com,Noin Claude,6,0,1,0
+841,blanco@gmail.com,blanco,6,16,1,2
+842,rucao@gmail.com,Râu Cao,128,33,95,45
+843,garret.alfert@gmail.com,Garret Alfert,63,38,43,15
+846,paulparadise@gmail.com,Paul Paradise,35,11,35,9
+847,volodymyrhotsyk@gmail.com,Volodymyr Hotsyk,113,122,67,14
+848,keeranrajhawoldar@gmail.com,Keeran Raj Hawoldar,52,9,30,20
+849,juliavalentine@gmail.com,Julia Valentine,534,72,15,10
+850,michaelphilpott@gmail.com,Michael Philpott,4,1,13,0
+851,mingliyuan@gmail.com,Mingli Yuan,320,715,90,14
+853,shantanoo@gmail.com,शंतनू (Shantanoo),34,37,70,10
+854,janfri@gmail.com,janfri,21,43,19,10
+855,olivier.mourlevat@gmail.com,Olivier Mourlevat,51,34,94,22
+856,lmcavalle@gmail.com,Luismi Cavallé,129,12,20,9
+857,andypearson@gmail.com,Andy Pearson,50,45,12,27
+858,lee.fred.1@gmail.com,Fred Lee,30,28,13,3
+860,ben@kudria.net,Benjamin Kudria,53,3,54,46
+861,jimbobpipes@gmail.com,Jim Bob Pipes,15,7,10,2
+862,derek.perrault@gmail.com,Derek Perrault,5,1,1,0
+863,cpjolicoeur@gmail.com,Craig P Jolicoeur,82,11,102,70
+864,dmitriytimokhin@gmail.com,Dmitriy Timokhin,19,5,2,4
+865,wynnnetherland@gmail.com,Wynn Netherland,1116,345,126,87
+866,thom@ikhono.net,Thomas Weibel,12,1,66,0
+867,brock@sintaxi.com,Brock Whitten,904,53,110,89
+868,matteo.scotuzzi@gmail.com,Matteo Scotuzzi,71,74,40,16
+869,peter.sunde@gmail.com,Peter Rekdal Khan-Sunde,137,28,183,25
+870,mattmurphy@gmail.com,Matt Murphy,51,84,30,22
+872,matthewboehlig@gmail.com,Matthew Boehlig,56,257,63,7
+873,sergioespeja@gmail.com,Sergio Espeja,73,41,36,12
+874,vettera@gmail.com,Alexander Vetter,24,44,9,4
+875,jameshannah@gmail.com,James Hannah,25,7,72,68
+877,lars@sehested.me,Lars G. Sehested,17,11,30,15
+878,lukerandall@gmail.com,Luke Randall,23,3,61,11
+879,tobinibot@gmail.com,Tobin Juday,10,0,35,9
+880,eugen@syntactic.org,Eugen Anghel,13,0,34,5
+881,marcosneves@gmail.com,Marcos Neves,120,1,36,71
+882,ragnardahln@gmail.com,Ragnar Dahlén,45,10,103,53
+883,benoitgoby@gmail.com,Benoit Goby,20,33,0,0
+884,tobydipasquale@gmail.com,Toby DiPasquale,76,51,55,67
+886,mail@dennisreimann.de,d11n,912,227,91,35
+887,hi@mislav.net,Mislav Marohnić,4772,22,191,171
+888,lord.armitage@gmail.com,Milan Zoufal,11,9,4,5
+889,joshua@gmail.com,Joshua,8,2,3,1
+890,slaytanic@gmail.com,Carlos Eduardo Monti,8,6,20,1
+891,matthewlyon@gmail.com,Matthew Lyon,0,0,43,41
+892,alastairbrunton@gmail.com,Alastair Brunton,33,19,109,116
+895,luisbarrueco@gmail.com,Luis Barrueco,11,4,26,0
+897,val@zbla.net,Laurent Vallar,38,28,30,8
+898,hunternield@gmail.com,Hunter Nield,80,65,9,11
+899,david@gensym.org,David Altenburg,13,4,45,5
+900,josephpearson@gmail.com,Joseph Pearson,91,5,20,15
+901,ben@hoskings.net,Ben Hoskings,256,5,11,223
+902,k.parnell@gmail.com,Kenny Parnell,90,10,47,34
+903,luke0x@gmail.com,Luke Crawford,97,40,27,8
